@@ -1,0 +1,15 @@
+# Welcome to the chat, buddy
+
+## Enter your nickname before the message
+### i.e. "Artsh: hello world!"
+
+=> gemini://localhost/send Send message
+=> gemini://localhost/chatUpd Chat (Update)
+
+
+Messages:
+
+28/02 01:03:12 -> sdasdasdasd
+
+
+28/02 01:03:09 -> test
