@@ -23,8 +23,8 @@ String.prototype.allReplace = function(obj) {
 
 
 let options = {
-    cert: fs.readFileSync('./cert/artshoque.blog.crt', 'utf8'),
-    key: fs.readFileSync('./cert/artshoque.blog.key', 'utf8')
+    cert: fs.readFileSync('cert.pem', 'utf8'),
+    key: fs.readFileSync('key.pem', 'utf8')
 }
 
 let header = fs.readFileSync('./static/header.txt', 'utf8');

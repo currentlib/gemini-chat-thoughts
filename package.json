@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "agentkeepalive": "^4.1.4",
     "file-system": "^1.2.2",
     "gemini-server": "^1.1.0",
     "nodemon": "^2.0.7",
