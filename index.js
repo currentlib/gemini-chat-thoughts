@@ -65,7 +65,7 @@ app.listen(()=>{
 function messagesGenerator(newMsg) {
     let msgs = header;
     // messager.write(header);
-    messages.length == 10 ? messages.splice(0, 1) : false;
+    messages.length == 100 ? messages.splice(0, 1) : false;
     let time = new Date();
     time = `${('0' + time.getDate()).slice(-2)}/${('0' + (time.getMonth()+1)).slice(-2)} ${('0' + time.getHours()).slice(-2)}:${('0' + time.getMinutes()).slice(-2)}:${('0' + time.getSeconds()).slice(-2)}`
     messages.push(`${time} -> ` + decodeURI(newMsg));

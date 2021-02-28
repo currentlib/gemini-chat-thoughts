@@ -1,3 +1,10 @@
 # Hello
 
-=> gemini://localhost/send To Chat
+This is the dumb realisation of chat over gemini (using nodejs gemini-server)
+
+## You're Welcome :)
+
+=> gemini://tymkiv.pp.ua/chat To Chat
+
+If you have any suggestions, welcome to the repo
+=> https://github.com/currentlib/gemini-chat-thoughts.git

@@ -3,8 +3,8 @@
 ## Enter your nickname before the message
 ### i.e. "Artsh: hello world!"
 
-=> gemini://localhost/send Send message
-=> gemini://localhost/chatUpd Chat (Update)
+=> gemini://tymkiv.pp.ua/send Send message
+=> gemini://tymkiv.pp.ua/chatUpd Chat (Update)
 
 
 Messages:
